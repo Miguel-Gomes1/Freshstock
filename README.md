@@ -1,4 +1,4 @@
-# sistema-de-estoque-de-alimentos-pereciveis
+# Fresh-stock
 
 Este projeto implementa um sistema simples e funcional de controle de estoque para alimentos, permitindo o cadastro de produtos com informações como nome, quantidade, peso, setor de armazenamento e data de validade. O sistema calcula automaticamente os dias restantes até o vencimento e classifica cada item com um nível de prioridade, auxiliando na tomada de decisão sobre o consumo ou descarte dos produtos.
 
